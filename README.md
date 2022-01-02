@@ -9,7 +9,7 @@
 
 - 📫 Comment me contacter **contact@sirihack.fr**
 
-- 📄 Mes expériences [Ancien youtubeur, adore crée des projets avec son autoentreprise](Ancien youtubeur, adore crée des projets avec son autoentreprise)
+- 📄 Mes expériences : [Ancien youtubeur, adore crée des projets avec son autoentreprise](Ancien youtubeur, adore crée des projets avec son autoentreprise)
 
 - ⚡ Fun fact **Autodidacte (parce que les cours...)**
 
