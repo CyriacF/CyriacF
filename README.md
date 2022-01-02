@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, Je suis SiriHack</h1>
+<h1 align="center">Salut 👋, Je suis SiriHack</h1>
 <h3 align="center">Développeur amateur à cause (grâce) de mes projets !</h3>
 
 <p align="left"> <a href="https://twitter.com/sirihack_" target="blank"><img src="https://img.shields.io/twitter/follow/sirihack_?logo=twitter&style=for-the-badge" alt="sirihack_" /></a> </p>
 
 - 🔭 Je travaille actuellement sur [Craftok](https://craftok.fr)
 
-- 🌱 I’m currently learning **Bash, Java, HTML/CSS, PHP, C, Cobold, JavaScript, MongoDB, Redis...**
+- 🌱 Je suis en train d'apprendre **Bash, Java, HTML/CSS, PHP, C, Cobold, JavaScript, MongoDB, Redis...**
 
 - 📫 Comment me contacter **contact@sirihack.fr**
 
-- 📄 Know about my experiences [Ancien youtubeur, adore crée des projets avec son autoentreprise](Ancien youtubeur, adore crée des projets avec son autoentreprise)
+- 📄 Mes expériences [Ancien youtubeur, adore crée des projets avec son autoentreprise](Ancien youtubeur, adore crée des projets avec son autoentreprise)
 
 - ⚡ Fun fact **Autodidacte (parce que les cours...)**
 
