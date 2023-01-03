@@ -1,7 +1,6 @@
 <h1 align="center">Salut 👋, Je suis SiriHack</h1>
 <h3 align="center">Développeur amateur à cause (grâce) de mes projets !</h3>
 
-<p align="left"> <a href="https://twitter.com/sirihack_" target="blank"><img src="https://img.shields.io/twitter/follow/sirihack_?logo=twitter&style=for-the-badge" alt="sirihack_" /></a> </p>
 
 - 🔭 Je travaille actuellement sur [Craftok](https://craftok.fr)
 
