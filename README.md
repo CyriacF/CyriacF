@@ -4,7 +4,7 @@
 
 - 🔭 Je travaille actuellement sur [Craftok](https://craftok.fr)
 
-- 🌱 Je suis en train d'apprendre **Bash, Java, HTML/CSS, PHP, C, Cobold, JavaScript, MongoDB, Redis...**
+- 🌱 Je suis en train d'apprendre **Bash, Java, HTML/CSS, PHP, C, JavaScript, MongoDB, Redis...**
 
 - 📫 Comment me contacter **contact@sirihack.fr**
 
